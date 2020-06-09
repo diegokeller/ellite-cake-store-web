@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  urlApiLoja: 'http://api.ellite.com.br'
 };

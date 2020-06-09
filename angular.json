@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cake-store-web"
+    }
+  },
+  "defaultProject": "cake-store-web",
+  "cli": {
+    "analytics": false
+  }
 }
